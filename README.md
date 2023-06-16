@@ -20,13 +20,13 @@
 
 ## Screenshots
 
-![Screenshot 1](screenshots/01_TinyTots.png)
-<br><br>
-![Screenshot 2](screenshots/02_TinyTots.png)
-<br><br>
-![Screenshot 3](screenshots/03_TinyTots.png)
-<br><br>
-![Screenshot 4](screenshots/04_TinyTots.png)
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| ![Screenshot 1](screenshots/01_TinyTots.png) | ![Screenshot 2](screenshots/02_TinyTots.png) |
+
+| Screenshot 3 | Screenshot 4 |
+|--------------|--------------|
+| ![Screenshot 3](screenshots/03_TinyTots.png) | ![Screenshot 4](screenshots/04_TinyTots.png) |
 
 
 
